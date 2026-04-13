@@ -95,7 +95,6 @@ https://qrco.de/bgjkun
 <img width="200" height="200" alt="qr(3) png" src="https://github.com/user-attachments/assets/66f9cf32-aab5-4e0f-8e02-7c043e154683" />
 
 
--GitHub Repository
-👉 https://github.com/ayzel9090/A3.MAD.ALINA.9067
 
-## 📁 Project Structure
+
+
