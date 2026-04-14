@@ -91,7 +91,42 @@ Future Improvements
 - Add cloud storage support
 
 Scan qr for e-commerce :
+
+
+
 <img width="173" height="191" alt="e-commerce" src="https://github.com/user-attachments/assets/4229e258-ed32-4775-8355-73cfef088188" />
+
+Scan qr for food delivery :
+
+
+
+<img width="172" height="194" alt="food delivery app" src="https://github.com/user-attachments/assets/e744fcdb-a72f-4109-a38c-b3e80c9792cd" />
+
+
+Scan qr for expensve tracking:
+
+
+
+<img width="178" height="203" alt="expense tracker" src="https://github.com/user-attachments/assets/4b66915b-d89d-4bd9-8f2c-0a26bf7957a2" />
+
+
+
+
+scan qr social media:
+
+
+<img width="168" height="192" alt="social media app" src="https://github.com/user-attachments/assets/f6b5245f-e7a7-479b-9c52-22f67c7cb089" />
+
+
+
+Scan qr ticket booking:
+
+
+
+
+<img width="174" height="194" alt="ticket booking app" src="https://github.com/user-attachments/assets/1c601b37-3e80-4abc-895a-343d4f340905" />
+
+
 
 
 
